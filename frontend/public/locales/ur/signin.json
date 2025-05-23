@@ -1,0 +1,16 @@
+{
+    "mainHeading": {
+        "line1": "کرپٹو ٹریڈنگ",
+        "line2": "بوٹس اور سمارٹ سیلز کے ساتھ"
+    },
+    "signIn": "سائن ان",
+    "email": "ای میل",
+    "Password": "پاس ورڈ",
+    "ForgetPassword": "پاس ورڈ بھول گئے؟",
+    "ResetPassword": "پاس ورڈ ری سیٹ کریں",
+    "Enteryouremail": "اپنا ای میل درج کریں، ہم آپ کے ان باکس میں پاس ورڈ ری سیٹ کرنے کا لنک بھیج دیں گے۔",
+    "Enter_youre_mail": "اپنا ای میل درج کریں",
+    "SendMail": "میل بھیجیں",
+    "Stillnothaveaccount": "ابھی تک اکاؤنٹ نہیں بنایا؟",
+    "Createanaccount": "اکاؤنٹ بنائیں"
+}

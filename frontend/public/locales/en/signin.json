@@ -1,0 +1,16 @@
+{
+    "mainHeading": {
+        "line1": "Crypto-trading",
+        "line2": "with bots and smart seals"
+    },
+    "signIn": "Sign In",
+    "email": "E-Mail",
+    "Password": "Password",
+    "ForgetPassword": "Forget Password",
+    "ResetPassword": "Reset Password",
+    "Enteryouremail": "Enter your email, and we will send a password reset link to your inbox.",
+    "Enter_youre_mail": "Enter your email",
+    "SendMail": "Send Mail",
+    "Stillnothaveaccount": "Still not have account?",
+    "Createanaccount": "Create an account"
+}
